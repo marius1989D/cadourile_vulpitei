@@ -5,6 +5,9 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+
+
 body {
     padding: 0;
     margin: 0;
@@ -80,10 +83,10 @@ label {
 
 .logo h1 a {
     color: rgb(22,110,93);
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     font-weight: bold;
-    font-size: 80px;
-    font-family: 'Tangerine', cursive;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
     text-decoration: none;
     background: rgba(247, 246, 246, 0.44);
     padding: 5px 30px;
@@ -388,7 +391,7 @@ h3.tittle-w3l:after {
 
 .grid1-agile.agile-new1 {
     background-color: #f72d65;
-    background-image: url(../images/model1.jpg);
+    background-image: url(../images/img/sticlacuflori.jpeg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 50%;
@@ -396,7 +399,7 @@ h3.tittle-w3l:after {
 
 .grid1-agile.agile-new2 {
     background-color: #3f76f1;
-    background-image: url(../images/model2.jpg);
+    background-image: url(../images/img/sticlacuflori2.jpeg);
     background-repeat: no-repeat;
     background-position: right;
     background-size: 50%;
@@ -1354,7 +1357,7 @@ i.fa.fa-cutlery {
 
 @media(max-width: 1080px) {
     .logo h1 a {
-        font-size: 72px;
+        font-size: 32px;
         padding: 5px 26px;
     }
     .slider-info h4 {
@@ -1615,7 +1618,7 @@ i.fa.fa-cutlery {
 
 @media(max-width: 800px) {
     .logo h1 a {
-        font-size: 66px;
+        font-size: 32px;
     }
     .inner-sub.inner-sub-2 {
         margin-left: 2em;
@@ -1741,7 +1744,7 @@ i.fa.fa-cutlery {
         padding-top: 14em;
     }
     .logo h1 a {
-        font-size: 60px;
+        font-size: 30px;
     }
     .slider-info h4 {
         font-size: 42px;
@@ -1897,7 +1900,7 @@ i.fa.fa-cutlery {
         right: 16px;
     }
     .logo h1 a {
-        font-size: 56px;
+        font-size: 30px;
         padding: 5px 18px;
     }
     .slider-info h4 {
@@ -2143,7 +2146,7 @@ i.fa.fa-cutlery {
         padding-right: 1em;
     }
     .logo h1 a {
-        font-size: 48px;
+        font-size: 30px;
     }
     .agile-top {
         margin-top: 16px;
@@ -2243,7 +2246,7 @@ i.fa.fa-cutlery {
         letter-spacing: 2px;
     }
     .logo h1 a {
-        font-size: 42px;
+        font-size: 30px;
         padding: 5px 14px;
     }
     .banner-1,
