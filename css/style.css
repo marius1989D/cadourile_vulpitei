@@ -79,7 +79,7 @@ label {
 /*-- logo --*/
 
 .logo h1 a {
-    color: #f72d65;
+    color: rgb(22,110,93);
     letter-spacing: 4px;
     font-weight: bold;
     font-size: 80px;
@@ -115,7 +115,7 @@ label {
 /*-- banner slider --*/
 
 .banner-1 {
-    background: url(../images/3.jpg) no-repeat 0px 0px;
+    background: url(../images/img/img1.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -125,7 +125,7 @@ label {
 }
 
 .banner-2 {
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/img/img2.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -135,7 +135,7 @@ label {
 }
 
 .banner-3 {
-    background: url(../images/5.jpg) no-repeat 0px 0px;
+    background: url(../images/img/img3.jpeg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
